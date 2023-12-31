@@ -8,6 +8,11 @@ An ESP8266 based device to emulate an old serial modem to get old hardware conne
 * Can be used with male and female DSUB connectors
 * Small form factor
 
+# 3D printed case
+There's also a 3D printed case available!
+
+![Modem](./doc/modem_case_render_500x.png)
+
 # Firmware and acknowledgement
 The whole device is based on the RS232 Serial WIFI Modem from The Old Net.
 The firmware can be found here: https://github.com/ssshake/vintage-computer-wifi-modem
